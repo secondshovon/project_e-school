@@ -1,0 +1,46 @@
+----------------font family---------------
+
+poppins-400, 700, 500
+font-family: "Poppins", sans-serif;
+
+roboto-400
+font-family: "Roboto", sans-serif;
+
+-------------------color---------------------
+
+green: #21B573
+red: #FD511A
+black: #000000
+
+---------------padding/margin [protita screen e padding margin rakhar rules]
+
+xxl-xl-lg         md          sm/col
+
+100-120           80          50/70
+
+-------------------------------------header
+
+			xxl-xl-lg         md          sm/col
+padding(t/b)	10            10            5
+
+-------------------------------------banner
+
+			xxl-xl-lg         md          sm/col
+padding(b)		65            65            65
+h1				48			  48			35
+
+-------------------------------------feature
+
+			xxl-xl-lg         md          sm/col
+padding(b)		100           80           60
+h1				24			  24
+
+-------------------------------------course
+
+			xxl-xl-lg         md          sm/col
+padding(b)		65            65            60
+h1				36			  36			28
+h2              24            24            20
+
+
+
